@@ -1,0 +1,7 @@
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\obj\Release\net6.0\PubTmp\Out\SEN Projekt AI.exe
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\obj\Release\net6.0\PubTmp\Out\SEN Projekt AI.dll
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\obj\Release\net6.0\PubTmp\Out\SEN Projekt AI.deps.json
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\obj\Release\net6.0\PubTmp\Out\SEN Projekt AI.runtimeconfig.json
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\obj\Release\net6.0\PubTmp\Out\SEN Projekt AI.pdb

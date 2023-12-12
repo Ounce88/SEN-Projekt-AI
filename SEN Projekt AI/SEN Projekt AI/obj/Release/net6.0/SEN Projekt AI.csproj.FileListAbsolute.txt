@@ -1,0 +1,31 @@
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\bin\Release\net6.0\appsettings.Development.json
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\bin\Release\net6.0\appsettings.json
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\bin\Release\net6.0\SEN Projekt AI.staticwebassets.runtime.json
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\bin\Release\net6.0\SEN Projekt AI.exe
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\bin\Release\net6.0\SEN Projekt AI.deps.json
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\bin\Release\net6.0\SEN Projekt AI.runtimeconfig.json
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\bin\Release\net6.0\SEN Projekt AI.dll
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\bin\Release\net6.0\SEN Projekt AI.pdb
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\obj\Release\net6.0\SEN Projekt AI.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\obj\Release\net6.0\SEN Projekt AI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\obj\Release\net6.0\SEN Projekt AI.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\obj\Release\net6.0\SEN Projekt AI.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\obj\Release\net6.0\SEN Projekt AI.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\obj\Release\net6.0\SEN Projekt AI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\obj\Release\net6.0\SEN Projekt AI.RazorAssemblyInfo.cache
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\obj\Release\net6.0\SEN Projekt AI.RazorAssemblyInfo.cs
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\obj\Release\net6.0\staticwebassets\msbuild.SEN Projekt AI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\obj\Release\net6.0\staticwebassets\msbuild.build.SEN Projekt AI.props
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.SEN Projekt AI.props
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.SEN Projekt AI.props
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\obj\Release\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\obj\Release\net6.0\scopedcss\bundle\SEN Projekt AI.styles.css
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\obj\Release\net6.0\scopedcss\projectbundle\SEN Projekt AI.bundle.scp.css
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\obj\Release\net6.0\SEN Projekt AI.dll
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\obj\Release\net6.0\refint\SEN Projekt AI.dll
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\obj\Release\net6.0\SEN Projekt AI.pdb
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\obj\Release\net6.0\SEN Projekt AI.genruntimeconfig.cache
+C:\Users\Alexander\Desktop\Neu Git\SEN-Projekt-AI\SEN Projekt AI\SEN Projekt AI\obj\Release\net6.0\ref\SEN Projekt AI.dll
